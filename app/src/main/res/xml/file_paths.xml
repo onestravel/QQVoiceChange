@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <paths xmlns:android="http://schemas.android.com/apk/res/android">
+        <external-path
+            name="record"
+            path="record" />
+        <external-files-path
+            name="record"
+            path="." />
+
+    </paths>
+
+</resources>
